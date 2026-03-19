@@ -1,2 +1,3 @@
-# super-fitness-tracker-fxio
-Automated issue comment bot repository
+# Super Fitness Tracker Fxio
+
+Automated issue comment bot repository.
